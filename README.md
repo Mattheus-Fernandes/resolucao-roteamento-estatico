@@ -1,27 +1,33 @@
-# Resolucao desafio roteamento estatico
+# Desafio Roteamento Estático
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+![image](https://github.com/user-attachments/assets/f64481e3-e023-4ba1-81e4-264123ecf4c5)
 
-## Development server
+Este projeto é um desafio de roteamento estático em Angular, focado na navegação entre páginas e redirecionamentos, com o objetivo de facilitar o uso e acesso a funcionalidades específicas do app.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
+- Navegação entre páginas com roteamento Angular.
+- Configuração de redirecionamentos padrão.
+- Exemplo prático de roteamento e estruturas de páginas.
 
-## Code scaffolding
+## Tecnologias Usadas
+- Angular 15
+- TypeScript
+- SCSS
+- HTML 5
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
+1. Clone o repositório:
+   - git clone https://github.com/Mattheus-Fernandes/resolucao-roteamento-estatico.git
+   - Navegue até a pasta do diretório cd resolucao-roteamento-estatico
 
-## Build
+2. Instalção das dependências:
+   - npm install ou npm i
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Execute o projeto:
+   - ng serve ou ng s
 
-## Running unit tests
+## Como usar 
+Após executar o projeto, acesse http://localhost:4200 no navegador.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##Autor 
+  - Mattheus Fernandes - https://github.com/Mattheus-Fernandes
